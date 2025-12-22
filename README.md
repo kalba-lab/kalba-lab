@@ -1,4 +1,4 @@
-### Grig Skomorovski
+### Gregory Sky
 
 Full-stack developer. Java/Spring Boot, Angular. I build tools and ship them.
 
@@ -11,4 +11,4 @@ Full-stack developer. Java/Spring Boot, Angular. I build tools and ship them.
 - [MultiCam Simulator](https://github.com/kalba-lab/multicam) — training tool for multicamera production (Unity, C#)
 - [Fuzzy](https://github.com/kalba-lab/fuzzy) — temporal logic library (Java)
 
-[kalba.dev](https://kalba.dev) · [LinkedIn](https://linkedin.com/in/grskomo)
+[kalba.dev](https://kalba.dev)
