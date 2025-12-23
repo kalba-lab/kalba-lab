@@ -1,4 +1,4 @@
-### Gregory Sky
+### Grig Skomarovski
 
 Full-stack developer. Java/Spring Boot, Angular. I build tools and ship them.
 
