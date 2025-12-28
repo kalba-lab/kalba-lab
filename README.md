@@ -1,6 +1,6 @@
 ### Grig Skomarovsky
 
-Developer. Java/Spring Boot. I build tools and ship them.
+Developer. I build tools and ship them.
 
 **Projects:**
 - [Polygloss](https://github.com/kalba-lab/polygloss) — multilingual e-commerce engine (Java Spring, Angular, PostgreSQL)
