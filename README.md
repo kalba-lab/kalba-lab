@@ -22,7 +22,7 @@ Research and tools for language, content, and structured information.
 
 Founded by Grig Skomorovski.
 
-Background in TV production (15 years) and university teaching (MSU, EHU). Broadcast systems, XR, software.
+Background in TV production (15 years) and university teaching (MSU, EHU). Broadcast systems, AR/XR solutions, backend software development.
 
 MA Humanities (Vilnius University), thesis on convergent media genres. Degree in Applied Mathematics.
 
