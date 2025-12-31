@@ -18,14 +18,6 @@ Research and tools for language, content, and structured information.
 | [3Lock](https://3lock.app) | Encrypted local storage | Python |
 | [4Fo](https://4fo.app) | Context stickers for folders | Swift |
 
-## About
-
-Founded by Grig Skomorovski.
-
-Background in TV production (15 years) and university teaching (MSU, EHU). Broadcast systems, AR/XR solutions, backend software development.
-
-MA Humanities (Vilnius University), thesis on convergent media genres. Degree in Applied Mathematics.
-
 ## Links
 
 - [kalba.dev](https://kalba.dev)
