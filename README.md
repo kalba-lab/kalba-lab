@@ -1,18 +1,17 @@
 # Kalba Lab
 
-Computational Humanities practice.
+Research and tools for media and narrative analysis.
 
-Research and tools for language, content, and structured information.
-
-## Tools
+## Tools & Apps
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Polygloss](https://polygloss.dev) | Multilingual e-commerce engine | Java Spring, Angular |
-| [WordStat](https://wordstat.kalba.dev) | Word frequency analyzer | Java Spring, HTMX |
-| [Rinkinys](https://rinkinys.app) | Spatial file organizer | Python, PySide6 |
+| [re:video](https://revideo.cc/) | Video feedback tool for instructors | Java Spring, Vue |
 | [MultiCam](https://kalba-lab.github.io/multicam/) | TV production training simulator | Unity, C# |
+| [WordStat](https://wordstat.kalba.dev) | Word frequency analyzer | Java Spring, HTMX |
 | [Fuzzy](https://github.com/kalba-lab/fuzzy) | Temporal logic library | Java |
+| [Polygloss](https://polygloss.dev) | Multilingual e-commerce engine | Java Spring, Angular |
+| [Rinkinys](https://rinkinys.app) | Spatial file organizer | Python, PySide6 |
 | [1Left](https://1left.app) | Budget tracker | Kotlin, Compose |
 | [2Jot](https://2jot.app) | Note app with two entry points | Kotlin, Compose |
 | [3Lock](https://3lock.app) | Encrypted local storage | Python |
