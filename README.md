@@ -6,7 +6,7 @@
 
 | Project | Description | Stack | Git |
 |---------|-------------|-------| ----|
-| [re:video](https://revideo.cc/) | Video feedback tool for instructors | Java Spring, Vue |   |
+| [re:video](https://revideo.cc/) | Video feedback tool for instructors | Java Spring, Vue |  [git](https://github.com/kalba-lab/revideo)   |
 | [MultiCam](https://kalba-lab.github.io/multicam/) | TV production training simulator | Unity, C# | [git](https://github.com/kalba-lab/multicam) |
 | [WordStat](https://wordstat.kalba.dev) | Word frequency analyzer | Java Spring, HTMX | [git](https://github.com/kalba-lab/simpleWordsStat2) |
 | [Fuzzy](https://github.com/kalba-lab/fuzzy) | Temporal logic library | Java | [git](https://github.com/kalba-lab/fuzzy) |
