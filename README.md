@@ -16,6 +16,7 @@ Research and tools for media and narrative analysis.
 | [2Jot](https://2jot.app) | Note app with two entry points | Kotlin, Compose |
 | [3Lock](https://3lock.app) | Encrypted local storage | Python |
 | [4Fo](https://4fo.app) | Context stickers for folders | Swift |
+| [500](https://500links.online/) | Links dump, from any browser | Swift |
 
 ## Links
 
