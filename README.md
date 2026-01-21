@@ -17,6 +17,7 @@
 | [3Lock](https://3lock.app) | Encrypted local storage | Python | [git](https://github.com/kalba-lab/3Lock) |
 | [4Fo](https://4fo.app) | Context stickers for folders | Swift | [git](https://github.com/kalba-lab/4Fo) |
 | [500](https://500links.online/) | Links dump, from any browser | Swift | [git](https://github.com/kalba-lab/500) |
+| [8.md](https://kalba.dev/apps/8md/) | Simple .md viewer. Nothing else. | Swift | [git](https://github.com/kalba-lab/8.md) |
 
 ## Links
 
