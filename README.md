@@ -22,4 +22,4 @@
 ## Links
 
 - [kalba.dev](https://kalba.dev)
-- [LinkedIn](https://www.linkedin.com/in/grigskom/)
+
