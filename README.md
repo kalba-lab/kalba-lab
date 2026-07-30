@@ -10,7 +10,7 @@
 | [MultiCam](https://kalba.dev/multicam/) | TV production training simulator | Unity, C# | [git](https://github.com/kalba-lab/multicam) |
 | [WordStat](https://wordstat.kalba.dev) | Word frequency analyzer | Java Spring, HTMX | [git](https://github.com/kalba-lab/simpleWordsStat2) |
 | [Fuzzy](https://github.com/kalba-lab/fuzzy) | Temporal logic library | Java | [git](https://github.com/kalba-lab/fuzzy) |
-| 
+
 
 ## Links
 
